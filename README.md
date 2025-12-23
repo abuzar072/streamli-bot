@@ -1,1 +1,1 @@
-# streamli-bot
+# streamlit-bot
