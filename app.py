@@ -16,14 +16,14 @@ st.set_page_config(
 
 # Groq client
 # client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-st.title("🤖 AbuzarExamGPT")
+st.title("🤖 AbuzarCustomGPT")
 
 # Display previous messages
 for message in st.session_state.messages:
