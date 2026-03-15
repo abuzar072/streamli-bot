@@ -16,7 +16,7 @@ st.set_page_config(
 
 # Groq client
 # client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 
 # Initialize chat history
